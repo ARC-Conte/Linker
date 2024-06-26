@@ -3,6 +3,9 @@
         <meta charset="utf-8">
         <title>linker</title>
         <style>
+            h1 a{
+                display: none;
+            }
             ::selection {
               background: rgb(160, 6, 6);
             }

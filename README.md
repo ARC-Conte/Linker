@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <title>linker</title>
         <style>
-            h1 a{
+            h1{
                 display: none;
             }
             ::selection {

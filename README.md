@@ -21,7 +21,7 @@
         <p>You can get a higher rating if you do spectacular things or you get a new award.</p>
 <script>
       function add(){
-          var myWindow = window.open("https://mcallisterschool.github.io/mcallisterschool.github.io.linker.app/", "", "width=800,height=500");
+          var myWindow = window.open("https://arc-conte.github.io/linker.app/", "", "width=800,height=500");
       }
       let width = screen.width;
       let height = screen.height;

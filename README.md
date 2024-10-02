@@ -58,7 +58,6 @@
   };
   button.addEventListener("click", onButtonClick);
   </script>
- <body>
         search the ARCoder web: <input id="address"> <button onClick="look()">search</button>
         <div id="page"></div>
         <script>

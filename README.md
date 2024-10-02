@@ -64,7 +64,6 @@
             function savera (){
                 localStorage.setItem('ARCoder.org', document.getElementById('s').value);
             }
-            localStorage.setItem('ARCoder.org', "a");
             function saverc (){
                 localStorage.setItem('gobble.anti', document.getElementById('s').value);
             }
